@@ -1,0 +1,139 @@
+
+body {
+
+background-color: magenta;
+
+
+}
+
+.titleContainer {
+
+  border: 10px solid yellow;
+  border-radius: 125px;
+
+}
+
+#titleText {
+
+  font-size: 100px;
+  color: blue;
+  font-family: 'Cinzel', serif;
+  text-align: center;
+
+
+
+}
+
+
+.subContainer {
+
+
+
+
+
+}
+
+
+#subText {
+
+    font-family: 'Cormorant Garamond', serif;
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+
+  .samSmith {
+
+
+    height: 400px;
+    border-radius: 45%;
+
+
+
+  }
+
+.samContainer {
+
+  display:flex;
+  align-items: center;
+
+
+}
+
+  .red {
+
+    background-color: red;
+
+
+  }
+
+
+  .orange {
+
+    background-color: orange;
+
+
+  }
+
+
+  .yellow {
+
+    background-color: yellow;
+
+
+  }
+
+
+
+  .green {
+
+    background-color: green;
+
+
+  }
+
+
+  .blue {
+
+    background-color: blue;
+
+
+  }
+
+
+  .purple {
+
+    background-color: purple;
+
+
+  }
+
+
+  .pink {
+
+    background-color: pink;
+
+
+  }
+
+
+  .black {
+
+    background-color: black;
+
+
+  }
+
+
+  .white {
+
+    background-color: white;
+
+
+  }
+
+
+  
